@@ -1,4 +1,4 @@
-![logo](https://github.com/sandeepjadhav7263/sandeepjadhav7263/blob/main/new%20image.jpg)
+![logo](https://github.com/sandeepjadhav1999/sandeepjadhav1999/blob/main/new%20image.jpg)
 <p align="center">
   <samp>
     Hi, I'm Sandeep Jadhav! 👋 <br>
