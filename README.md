@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**sandeepjadhav1999/sandeepjadhav1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![logo](https://github.com/sandeepjadhav7263/sandeepjadhav7263/blob/main/new%20image.jpg)
+<p align="center">
+  <samp>
+    Hi, I'm Sandeep Jadhav! 👋 <br>
+    🔥 Angular Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: Angular, Javascript, Html, css, Python, Bootstrap, Angular material ... <br>
+    :email:	sandeep.jadhav2409@gmail.com <br>
+    :art: Portfolio: <br>
+    :briefcase: LinkedIn: linkedin.com/in/sandeep-jadhav-n-6b1883219 <br>
+  </samp>
+</p>
